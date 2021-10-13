@@ -1,0 +1,24 @@
+﻿  源.c
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(30,13): error C2065: “initDate”: 未声明的标识符
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(34,16): warning C4013: “drawMap”未定义；假设外部返回 int
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(43,19): warning C4013: “moveUp”未定义；假设外部返回 int
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(46,21): warning C4013: “moveDown”未定义；假设外部返回 int
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(49,21): warning C4013: “moveLeft”未定义；假设外部返回 int
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(52,22): warning C4013: “moveRight”未定义；假设外部返回 int
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(57,5): warning C4098: “main”:“void”函数返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(121,9): warning C4033: “moveUp”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(127,9): warning C4033: “moveUp”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(131,9): warning C4033: “moveUp”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(137,13): warning C4033: “moveUp”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(160,9): warning C4033: “moveDown”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(166,9): warning C4033: “moveDown”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(170,9): warning C4033: “moveDown”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(176,13): warning C4033: “moveDown”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(199,9): warning C4033: “moveRight”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(205,9): warning C4033: “moveRight”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(209,9): warning C4033: “moveRight”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(215,13): warning C4033: “moveRight”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(238,9): warning C4033: “moveLeft”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(244,9): warning C4033: “moveLeft”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(248,9): warning C4033: “moveLeft”必须返回值
+D:\lianxi\c\推箱子1.0\推箱子1.0\源.c(254,13): warning C4033: “moveLeft”必须返回值

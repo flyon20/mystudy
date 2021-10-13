@@ -1,0 +1,1 @@
+@"D:\°¡¹şC\resources\core\bin\ConsolePauser.exe" "D:\°¡¹şC\resources\code\1.exe"

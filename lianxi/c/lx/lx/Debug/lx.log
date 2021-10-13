@@ -1,0 +1,3 @@
+﻿  源.c
+D:\lianxi\c\lx\lx\源.c(5,8): warning C4013: “system”未定义；假设外部返回 int
+  lx.vcxproj -> D:\lianxi\c\lx\Debug\lx.exe

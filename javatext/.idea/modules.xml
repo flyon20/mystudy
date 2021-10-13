@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrayuti1/Arrayuti1.iml" filepath="$PROJECT_DIR$/Arrayuti1/Arrayuti1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/Arrtext/Arrtext.iml" filepath="$PROJECT_DIR$/test1/Arrtext/Arrtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/MyCarTest/MyCarTest.iml" filepath="$PROJECT_DIR$/test1/MyCarTest/MyCarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/Runnable1/Runnable1.iml" filepath="$PROJECT_DIR$/test1/Runnable1/Runnable1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/TEst/TEst.iml" filepath="$PROJECT_DIR$/test1/TEst/TEst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/Text/Text.iml" filepath="$PROJECT_DIR$/test1/Text/Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/Text2/Text2.iml" filepath="$PROJECT_DIR$/test1/Text2/Text2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/Thread/Thread.iml" filepath="$PROJECT_DIR$/test1/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javatext.iml" filepath="$PROJECT_DIR$/.idea/javatext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx/lx.iml" filepath="$PROJECT_DIR$/lx/lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx3/lx3.iml" filepath="$PROJECT_DIR$/lx3/lx3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject/myproject.iml" filepath="$PROJECT_DIR$/myproject/myproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject2.0/myproject2.0.iml" filepath="$PROJECT_DIR$/myproject2.0/myproject2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+    </modules>
+  </component>
+</project>

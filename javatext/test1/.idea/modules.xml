@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrtext/Arrtext.iml" filepath="$PROJECT_DIR$/Arrtext/Arrtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCarTest/MyCarTest.iml" filepath="$PROJECT_DIR$/MyCarTest/MyCarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runnable1/Runnable1.iml" filepath="$PROJECT_DIR$/Runnable1/Runnable1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEst/TEst.iml" filepath="$PROJECT_DIR$/TEst/TEst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text/Text.iml" filepath="$PROJECT_DIR$/Text/Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text2/Text2.iml" filepath="$PROJECT_DIR$/Text2/Text2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1.iml" filepath="$PROJECT_DIR$/test1.iml" />
+    </modules>
+  </component>
+</project>
