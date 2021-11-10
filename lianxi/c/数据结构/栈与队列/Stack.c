@@ -17,6 +17,7 @@ typedef struct{
     SElemType date[MAXSIZE];//存储空间
     int top;//栈顶指针
 }SqStack;
+
 Status visit(SElemType c){
     printf("%d",c);
     return OK;
