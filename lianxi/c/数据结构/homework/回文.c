@@ -16,7 +16,7 @@ typedef char SElemType;
 
 typedef struct 
 {
-    char data[MAXSIZE];/* data */
+    char data[MAXSIZE];
     int top;
 }HW;
 Status InitStack(HW *S){
