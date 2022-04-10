@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="799acea8-07e8-4a0d-bcb5-ce5a997a4b76" name="Default Changelist" comment="" />
+    <list default="true" id="8bb030cc-5e93-48a6-ba62-1aa6043fe71e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/BFS迷宫.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DFS迷宫.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DP01bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DP动态规划硬币.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject2.0/out/production/myproject2.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject2.0/out/production/myproject2.0/View/TeamView.class" beforeDir="false" afterPath="$PROJECT_DIR$/myproject2.0/out/production/myproject2.0/View/TeamView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/lanqiao/src/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/lanqiao/src/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lq2021.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lq2021.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqbutongzichuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqbutongzichuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqdengchashulie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqdengchashulie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgongyueshu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgongyueshu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqhouzifenxiangjiao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqhouzifenxiangjiao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqjlh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqjlh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqkp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqkp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqlj.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqlj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmigong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmigong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmld2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmld2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmpzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmpzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpingfanghe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpingfanghe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpxxq.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpxxq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqshulieqiuzhi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqshulieqiuzhi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsxts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsxts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqtebieshudehe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqtebieshudehe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqxiaopengyouchongbaiquan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqxiaopengyouchongbaiquan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhishu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhishu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhzyxd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhzyxd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzsfm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzsfm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/MGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/MGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lianxi/c/数据结构/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lianxi/c/数据结构/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/text1/study4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/text1/study4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +53,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/myproject2.0/out/production/myproject2.0/View/TeamView.class" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="20tuAsXdi3dpGobnUamuiQLi9Fa" />
+  <component name="ProjectId" id="27bFJgjNryIaRmUChvLZYV7Uwfd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,75 +62,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="study" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="799acea8-07e8-4a0d-bcb5-ce5a997a4b76" name="Default Changelist" comment="" />
-      <created>1636876067789</created>
+      <changelist id="8bb030cc-5e93-48a6-ba62-1aa6043fe71e" name="Changes" comment="" />
+      <created>1649580808526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636876067789</updated>
-      <workItem from="1636876069155" duration="974000" />
-      <workItem from="1636877367093" duration="97000" />
-      <workItem from="1636877489588" duration="237000" />
-      <workItem from="1636882205722" duration="607000" />
-      <workItem from="1636889126991" duration="828000" />
-      <workItem from="1636889973542" duration="204000" />
-      <workItem from="1641290518264" duration="10000" />
-      <workItem from="1641290609350" duration="21000" />
-      <workItem from="1641290675272" duration="45000" />
-      <workItem from="1641290838468" duration="252000" />
-      <workItem from="1641291206795" duration="9000" />
-      <workItem from="1641296838672" duration="81000" />
+      <updated>1649580808526</updated>
+      <workItem from="1649580809792" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
   </component>
 </project>

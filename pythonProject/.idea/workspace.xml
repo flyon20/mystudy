@@ -2,14 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a0b5bc4-88b6-438f-ae7e-76c2f995290c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javatext/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javatext/.idea/javatext.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/BFS迷宫.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DFS迷宫.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DP01bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaalgorithms/src/DP动态规划硬币.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatext/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javatext/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatext/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javatext/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatext/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatext/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javatext/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatext/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javatext/java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javatext/java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javatext/java/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatext/myproject2.0/out/production/myproject2.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatext/myproject2.0/out/production/myproject2.0/View/TeamView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatext/myproject2.0/out/production/myproject2.0/View/TeamView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/lanqiao/src/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/lanqiao/src/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lq2021.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lq2021.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqbutongzichuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqbutongzichuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqdengchashulie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqdengchashulie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgongyueshu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqgongyueshu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqhouzifenxiangjiao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqhouzifenxiangjiao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqjlh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqjlh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqkp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqkp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqlj.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqlj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmigong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmigong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmld2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmld2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmpzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqmpzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpingfanghe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpingfanghe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpxxq.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqpxxq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqshulieqiuzhi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqshulieqiuzhi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsxts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqsxts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqtebieshudehe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqtebieshudehe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqxiaopengyouchongbaiquan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqxiaopengyouchongbaiquan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhishu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhishu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhzyxd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzhzyxd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzsfm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Lqzsfm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/MGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/MGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatopic/out/production/lanqiao/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lianxi/c/数据结构/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lianxi/c/数据结构/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text1/study4.py" beforeDir="false" afterPath="$PROJECT_DIR$/text1/study4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +61,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../蓝桥杯/C" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="study3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -71,6 +107,8 @@
       <workItem from="1634114065899" duration="9000" />
       <workItem from="1634565579433" duration="82000" />
       <workItem from="1636878040492" duration="88000" />
+      <workItem from="1649170983377" duration="738000" />
+      <workItem from="1649434786173" duration="29000" />
     </task>
     <servers />
   </component>

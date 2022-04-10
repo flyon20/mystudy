@@ -5,7 +5,6 @@ print(bicycles)
 bicycles.sort(reverse=True)
 print(bicycles,'\n')
 
-
 print(sorted(bicycles))
 
 bicycles.reverse()
