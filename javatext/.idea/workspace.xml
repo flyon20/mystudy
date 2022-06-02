@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb030cc-5e93-48a6-ba62-1aa6043fe71e" name="Changes" comment="4.10try" />
+    <list default="true" id="8bb030cc-5e93-48a6-ba62-1aa6043fe71e" name="Changes" comment="4.10try">
+      <change afterPath="$PROJECT_DIR$/../myjavastudy/myjavastudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myjavastudy" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +35,8 @@
       <updated>1649580808526</updated>
       <workItem from="1649580809792" duration="29000" />
       <workItem from="1649580909711" duration="143000" />
+      <workItem from="1650696904244" duration="395000" />
+      <workItem from="1652105256558" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="4.10try">
       <created>1649581028456</created>
@@ -56,6 +61,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4.10try" />

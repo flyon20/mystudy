@@ -33,11 +33,19 @@ public class TeamService {
                 throw new TeamException("该成员已在开发成员中！");
             }
 
-            if ("BUSY".equalsIgnoreCase(p.getStatus().getNAME())) {
-                throw new TeamException("该成员已在开发成员中！");
-            } else if ("VACATION".equalsIgnoreCase(p.getStatus().getNAME())) {
-                throw new TeamException("该成员在休假！");
-            }else{
+//            if ("BUSY".equalsIgnoreCase(p.getStatus().getNAME())) {
+//                throw new TeamException("该成员已在开发成员中！");
+//            } else if ("VACATION".equalsIgnoreCase(p.getStatus().getNAME())) {
+//                throw new TeamException("该成员在休假！");
+//            }
+            switch (p.getStatus()){
+                case BUSY:
+                    throw new TeamException("该成员已在开发成员中！");
+                case VOCATION:
+                    throw new TeamException("该成员在休假！");
+            }
+
+
             //获取成员中已有架构师，设计师，程序员个数
             int numOfArc = 0, numOfDes = 0, numOfPro = 0;
             for (int i = 0; i < total; i++) {
@@ -69,7 +77,7 @@ public class TeamService {
                 p.setStatus(Status.BUSY);
                 p.setMemberId(counter++);
                 team[total++] = p;
-            }
+
         }
     }
 
