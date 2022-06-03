@@ -14,7 +14,7 @@ public class FileReaderWriter {
             fir = new FileReader(file);
             int data = fir.read();
             while(data != -1){
-                System.out.println((char)data);
+                System.out.print((char)data);
                 data = fir.read();
             }
 
@@ -91,6 +91,49 @@ public class FileReaderWriter {
            }
        }
 
+   }
+
+    public void copyFile(String mp4,String cmp4){
+       FileInputStream fis = null;
+       FileOutputStream fio = null;
+       try {
+           File file = new File(mp4);
+           File cfile = new File(cmp4);
+
+           fis = new FileInputStream(file);
+           fio = new FileOutputStream(cfile);
+
+           byte buffer [] = new byte[1024];
+           int len;
+           while ((len = fis.read(buffer))!=-1){
+               fio.write(buffer,0,len);
+           }
+           System.out.println("复制成功");
+       } catch (IOException e) {
+           e.printStackTrace();
+       } finally {
+           try {
+               fis.close();
+           } catch (IOException e) {
+               e.printStackTrace();
+           }
+           try {
+               fio.close();
+           } catch (IOException e) {
+               e.printStackTrace();
+           }
+       }
+
+   }
+   @Test
+    public void testFilecopy(){
+        String mp4 = "D:\\test\\1.mp4" ;
+        String cmp4 = "D:\\test\\2.mp4";
+
+        long start = System.currentTimeMillis();
+        copyFile(mp4,cmp4);
+       long end = System.currentTimeMillis();
+       System.out.println(end - start);
    }
 
 }
